@@ -11,5 +11,8 @@ idf_component_register(
     	driver
     	esp_adc
     	log
+    	ldr_sensor
+    	servo_control
+    	common
     PRIV_REQUIRES       # optional, list the private requirements
 )
