@@ -1,0 +1,10 @@
+../Core/Src/bme280.c:38:20:CS_Low	1
+../Core/Src/bme280.c:39:20:CS_High	1
+../Core/Src/bme280.c:41:13:BME280_ReadRegs	4
+../Core/Src/bme280.c:58:13:BME280_WriteReg	2
+../Core/Src/bme280.c:72:13:BME280_ReadCalibration	3
+../Core/Src/bme280.c:113:15:CompensateTemperature	1
+../Core/Src/bme280.c:122:15:CompensatePressure	2
+../Core/Src/bme280.c:144:15:CompensateHumidity	3
+../Core/Src/bme280.c:158:6:BME280_Init	7
+../Core/Src/bme280.c:191:6:BME280_Read	2

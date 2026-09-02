@@ -1,0 +1,7 @@
+../Core/Src/clock_app.c:43:16:Calculate_DayOfWeek	3
+../Core/Src/clock_app.c:54:13:LayoutInit	2
+../Core/Src/clock_app.c:118:6:ClockApp_Init	3
+../Core/Src/clock_app.c:158:13:DrawSecondsBar	3
+../Core/Src/clock_app.c:180:13:FormatEnvLine	2
+../Core/Src/clock_app.c:190:13:RenderClock	3
+../Core/Src/clock_app.c:231:6:ClockApp_Run	4
