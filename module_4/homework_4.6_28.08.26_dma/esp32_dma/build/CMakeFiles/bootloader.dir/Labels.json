@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/serhiimazur/Documents/embedded/Projects/homework/ESP-IDE/homework_4.6_28.08.26_dma/esp32_dma/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/Users/serhiimazur/Documents/embedded/Projects/homework/ESP-IDE/homework_4.6_28.08.26_dma/esp32_dma/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/Users/serhiimazur/Documents/embedded/Projects/homework/ESP-IDE/homework_4.6_28.08.26_dma/esp32_dma/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/Users/serhiimazur/Documents/embedded/Projects/homework/ESP-IDE/homework_4.6_28.08.26_dma/esp32_dma/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/Users/serhiimazur/Documents/embedded/Projects/homework/ESP-IDE/homework_4.6_28.08.26_dma/esp32_dma/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/Users/serhiimazur/Documents/embedded/Projects/homework/ESP-IDE/homework_4.6_28.08.26_dma/esp32_dma/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/Users/serhiimazur/Documents/embedded/Projects/homework/ESP-IDE/homework_4.6_28.08.26_dma/esp32_dma/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/Users/serhiimazur/Documents/embedded/Projects/homework/ESP-IDE/homework_4.6_28.08.26_dma/esp32_dma/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/Users/serhiimazur/Documents/embedded/Projects/homework/ESP-IDE/homework_4.6_28.08.26_dma/esp32_dma/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/Users/serhiimazur/Documents/embedded/Projects/homework/ESP-IDE/homework_4.6_28.08.26_dma/esp32_dma/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
